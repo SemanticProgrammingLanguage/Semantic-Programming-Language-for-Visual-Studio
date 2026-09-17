@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
+  <Metadata>
+    <Identity Id="SemanticProgrammingLanguage.VisualStudio" Version="1.1.1" Language="en-US" Publisher="Semantic Programming Language" />
+    <DisplayName>Semantic Programming Language</DisplayName>
+    <Description xml:space="preserve">Visual Studio 2022 language support for Semantic Programming Language (.se and .sp), with TextMate syntax highlighting and editor language configuration. .spz remains associated with the Semantic ecosystem but is a binary format and is not tokenized as source text.</Description>
+    <MoreInfo>https://www.semantic-programming-language.com/</MoreInfo>
+    <License>LICENSE.txt</License>
+    <Icon>Resources\icon.png</Icon>
+    <Tags>Semantic, programming language, syntax highlighting, TextMate, se, sp, spz</Tags>
+  </Metadata>
+  <Installation InstalledByMsi="false">
+    <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[17.0,18.0)">
+      <ProductArchitecture>amd64</ProductArchitecture>
+    </InstallationTarget>
+    <InstallationTarget Id="Microsoft.VisualStudio.Pro" Version="[17.0,18.0)">
+      <ProductArchitecture>amd64</ProductArchitecture>
+    </InstallationTarget>
+    <InstallationTarget Id="Microsoft.VisualStudio.Enterprise" Version="[17.0,18.0)">
+      <ProductArchitecture>amd64</ProductArchitecture>
+    </InstallationTarget>
+  </Installation>
+  <Prerequisites>
+    <Prerequisite Id="Microsoft.VisualStudio.Component.CoreEditor" Version="[17.0,18.0)" DisplayName="Visual Studio core editor" />
+  </Prerequisites>
+  <Assets>
+    <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="File" Path="SemanticLanguage.pkgdef" />
+  </Assets>
+</PackageManifest>

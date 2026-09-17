@@ -1,0 +1,13 @@
+C:\Users\tarek\Desktop\Neuer Ordner (3)\bin\Release\SemanticProgrammingLanguage.VisualStudio.dll
+C:\Users\tarek\Desktop\Neuer Ordner (3)\bin\Release\SemanticProgrammingLanguage.VisualStudio.pdb
+C:\Users\tarek\Desktop\Neuer Ordner (3)\bin\Release\SemanticProgrammingLanguage.VisualStudio.vsix
+C:\Users\tarek\Desktop\Neuer Ordner (3)\bin\Release\extension.vsixmanifest
+C:\Users\tarek\Desktop\Neuer Ordner (3)\obj\Release\SemanticProgrammingLanguage.VisualStudio.csproj.AssemblyReference.cache
+C:\Users\tarek\Desktop\Neuer Ordner (3)\obj\Release\_EmptyResource.resources
+C:\Users\tarek\Desktop\Neuer Ordner (3)\obj\Release\SemanticProgrammingLanguage.VisualStudio.csproj.GenerateResource.cache
+C:\Users\tarek\Desktop\Neuer Ordner (3)\obj\Release\SemanticProgrammingLanguage.VisualStudio.csproj.CoreCompileInputs.cache
+C:\Users\tarek\Desktop\Neuer Ordner (3)\obj\Release\SemanticProgrammingLanguage.VisualStudio.dll
+C:\Users\tarek\Desktop\Neuer Ordner (3)\obj\Release\SemanticProgrammingLanguage.VisualStudio.pdb
+C:\Users\tarek\Desktop\Neuer Ordner (3)\obj\Release\extension.vsixmanifest
+C:\Users\tarek\Desktop\Neuer Ordner (3)\obj\Release\files.json
+C:\Users\tarek\Desktop\Neuer Ordner (3)\obj\Release\createTemplateManifests.cache

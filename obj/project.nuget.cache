@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "nqt4BenalfQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tarek\\Desktop\\Neuer Ordner (3)\\SemanticProgrammingLanguage.VisualStudio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tarek\\.nuget\\packages\\microsoft.visualstudio.sdk.analyzers\\17.7.79\\microsoft.visualstudio.sdk.analyzers.17.7.79.nupkg.sha512",
+    "C:\\Users\\tarek\\.nuget\\packages\\microsoft.vssdk.buildtools\\17.14.2142\\microsoft.vssdk.buildtools.17.14.2142.nupkg.sha512",
+    "C:\\Users\\tarek\\.nuget\\packages\\microsoft.vssdk.compatibilityanalyzer\\17.14.2142\\microsoft.vssdk.compatibilityanalyzer.17.14.2142.nupkg.sha512"
+  ],
+  "logs": []
+}
