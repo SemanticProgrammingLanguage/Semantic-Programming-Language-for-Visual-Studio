@@ -1,6 +1,9 @@
 # Semantic Programming Language — Visual Studio 2022 Extension
 
 This project packages Semantic Programming Language support as a Visual Studio 2022 VSIX.
+## Download
+
+https://marketplace.visualstudio.com/_apis/public/gallery/publishers/semanticprogramminglanguage/vsextensions/SemanticProgrammingLanguage/1.1.1/vspackage
 
 ## Build the VSIX
 
